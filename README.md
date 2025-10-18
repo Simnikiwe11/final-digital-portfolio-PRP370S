@@ -38,8 +38,7 @@ This portfolio showcases my development across five key workplace readiness comp
 
 *Still from my recorded mock interview session.*
 
-[Watch full mock interview video](mock-interview.mp4)
-
+[Download full mock interview video](https://github.com/wil-it2025/cv-tutorial-Simnikiwe11/blob/main/MOCK%20INTERVIEW%20(1)%20(1).mp4)
 ### Reflection (STAR)
 **Situation**: Speaking in front of a camera was terifying and also exciting at the same time because I knew that I might not do well now but I will learn and improve next time.  
 **Task**: Demonstrate technical ability, problem-solving, and mission alignment.  
@@ -51,9 +50,12 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 4. Professional Networking
 
 ### Evidence
-[View my Professional Networking Quizz Test results](artifacts/professional-networking.png)
-[View my LinkedIn Profile](artifacts/LinkedIn1.png) 
-[View my LinkedIn Profile Bio](artifacts/LinkedIn1.png) 
+[View my Professional Networking Quiz Test results](artifacts/professional-networking.png)
+
+[View my LinkedIn Profile](artifacts/LinkedIn1.png)
+
+[View my LinkedIn Profile Bio](artifacts/LinkedIn2.png)
+
 *Personalized message I sent to a professional in the food sustainability space.*
 
 ### Reflection (STAR)
