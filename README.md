@@ -7,7 +7,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 1. Business Communication
 
 ### Evidence
-![Professional Email](assets/business-communication-email.png)  
+[View professional email screenshot](artifacts/business-communication-email.png)  
 *Screenshot of an email I sent to a local bakery proposing food donation collaboration.*
 
 ### Reflection (STAR)
@@ -21,7 +21,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 2. Interview Skills
 
 ### Evidence
-![Tailored CV Excerpt](assets/cv-excerpt.png)  
+[View CV excerpt](artifacts/cv-excerpt.png)  
 *Section of my CV customized for a social impact tech role.*
 
 ### Reflection (STAR)
@@ -35,10 +35,10 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 3. Mock Interview
 
 ### Evidence
-![Mock Interview Screenshot](artifacts/mock-interview-screenshot.jpg)  
+[View mock interview screenshot](artifacts/mock-interview-screenshot.jpg)  
 *Still from my recorded mock interview session.*
 
->  [Watch full mock interview (unlisted)](https://youtu.be/your-video-link)
+[Watch full mock interview video](mock-interview.mp4)
 
 ### Reflection (STAR)
 **Situation**: Simulated interview for a developer role at a food security nonprofit.  
@@ -51,7 +51,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 4. Professional Networking
 
 ### Evidence
-![LinkedIn Outreach Message](assets/linkedin-message.png)  
+[View LinkedIn outreach message](artifacts/professional-networking.png)  
 *Personalized message I sent to a professional in the food sustainability space.*
 
 ### Reflection (STAR)
@@ -65,7 +65,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 5. Workplace Etiquette
 
 ### Evidence
-![Professional Virtual Meeting Setup](assets/professional-meeting-photo.jpg)  
+[View professional meeting photo](artifacts/professional-meeting-photo.jpg)  
 *Photo of me during a team sync for the food waste project.*
 
 ### Reflection (STAR)
@@ -83,4 +83,4 @@ These five competencies have deepened my understanding that **technical skills a
 As a developer working on solutions to reduce food waste in South Africa, I now see how **every email, interview, and meeting** is an opportunity to represent my values and mission with integrity. Moving forward, I’ll continue refining these skills through practice, feedback, and reflection.
 
 ---
->  *All artefacts are original and created during my work readiness training and professional practice.*
+> *All artefacts are original and created during my work readiness training and professional practice.*
