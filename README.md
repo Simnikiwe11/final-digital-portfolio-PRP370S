@@ -7,7 +7,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 1. Business Communication
 
 ### Evidence
-[View professional email screenshot](artifacts/business-communication-email.png)  
+[View professional email screenshot](artifacts/business-communication.png)  
 *Screenshot of an email I sent to a local bakery proposing food donation collaboration.*
 
 ### Reflection (STAR)
@@ -21,7 +21,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 2. Interview Skills
 
 ### Evidence
-[View CV excerpt](artifacts/cv-excerpt.png)  
+[View CV excerpt](artifacts/interview-skills.png)  
 *Section of my CV customized for a social impact tech role.*
 
 ### Reflection (STAR)
@@ -35,7 +35,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 3. Mock Interview
 
 ### Evidence
-[View mock interview screenshot](artifacts/mock-interview-screenshot.jpg)  
+
 *Still from my recorded mock interview session.*
 
 [Watch full mock interview video](mock-interview.mp4)
@@ -65,7 +65,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 5. Workplace Etiquette
 
 ### Evidence
-[View professional meeting photo](artifacts/professional-meeting-photo.jpg)  
+[View professional meeting photo](artifacts/workplace-etiquette.png)  
 *Photo of me during a team sync for the food waste project.*
 
 ### Reflection (STAR)
