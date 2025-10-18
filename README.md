@@ -7,7 +7,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 1. Business Communication
 
 ### Evidence
-[View professional email screenshot](artifacts/business-communication.png)  
+[View Business Communication quizz test results](artifacts/business-communication.png)  
 *Screenshot of an email I sent to a local bakery proposing food donation collaboration.*
 
 ### Reflection (STAR)
@@ -21,13 +21,13 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 2. Interview Skills
 
 ### Evidence
-[View CV excerpt](artifacts/interview-skills.png)  
+[View my Interview Skills Quizz Results](artifacts/interview-skills.png)  
 *Section of my CV customized for a social impact tech role.*
 
 ### Reflection (STAR)
 **Situation**: Preparing for a technical interview combining full-stack development and community impact.  
-**Task**: Align my React/Node.js experience and project work with the organization’s goals.  
-**Action**: Researched the company, practiced behavioural and technical questions, and prepared concrete examples from my food waste project.  
+**Task**: My goal was to learn how to structure my answers properly and build the confidence to speak clearly about my experiences and strengths.  
+**Action**: The Interview Skills module was a game changer. I learned about the STAR and CAR methods, practiced mock questions, and watched interview videos to pick up on tone and body language. I even recorded myself answering questions like “Tell me about yourself”, "What mistake Have a ever did during a project that I will never forget" to analyze how I came across. After a few tries, I noticed my posture, eye contact, and confidence improving..  
 **Result**: Felt confident during the interview and received feedback on clear, structured responses—validating my preparation approach.
 
 ---
@@ -41,7 +41,7 @@ This portfolio showcases my development across five key workplace readiness comp
 [Watch full mock interview video](mock-interview.mp4)
 
 ### Reflection (STAR)
-**Situation**: Simulated interview for a developer role at a food security nonprofit.  
+**Situation**: Speaking in front of a camera was terifying and also exciting at the same time because I knew that I might not do well now but I will learn and improve next time.  
 **Task**: Demonstrate technical ability, problem-solving, and mission alignment.  
 **Action**: Practiced STAR-based answers, refined my self-introduction, and prepared thoughtful questions about team culture.  
 **Result**: Received constructive feedback—strong storytelling but needed better eye contact. This helped me improve before real interviews.
@@ -51,7 +51,9 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 4. Professional Networking
 
 ### Evidence
-[View LinkedIn outreach message](artifacts/professional-networking.png)  
+[View my Professional Networking Quizz Test results](artifacts/professional-networking.png)
+[View my LinkedIn Profile](artifacts/LinkedIn1.png) 
+[View my LinkedIn Profile Bio](artifacts/LinkedIn1.png) 
 *Personalized message I sent to a professional in the food sustainability space.*
 
 ### Reflection (STAR)
@@ -65,7 +67,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 5. Workplace Etiquette
 
 ### Evidence
-[View professional meeting photo](artifacts/workplace-etiquette.png)  
+[View my Work Etiquette Quiz Results](artifacts/workplace-etiquette.png)  
 *Photo of me during a team sync for the food waste project.*
 
 ### Reflection (STAR)
