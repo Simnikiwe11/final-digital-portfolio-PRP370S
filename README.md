@@ -69,7 +69,7 @@ This portfolio showcases my development across five key workplace readiness comp
 ## 5. Workplace Etiquette
 
 ### Evidence
-[View my Work Etiquette Quiz Results](artifacts/workplace-etiquette.png)  
+[View my Work Etiquette Quiz Results](artifacts/work-etiquette.png)  
 *Photo of me during a team sync for the food waste project.*
 
 ### Reflection (STAR)
